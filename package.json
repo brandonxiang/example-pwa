@@ -1,0 +1,15 @@
+{
+  "name": "test-pwa-simple",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generateSW.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.2.7"
+  }
+}
